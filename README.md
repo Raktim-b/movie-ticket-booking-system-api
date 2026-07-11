@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:E50914,100:000000&text=🎬%20Movie%20Ticket%20Booking%20API&fontSize=38&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:FF6B6B&height=220&section=header&text=Movie%20Ticket%20Booking%20API&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 > A complete **Movie Ticket Booking System Backend API** built with **Node.js, Express.js, MongoDB, Mongoose, JWT, and Nodemailer** that allows users to browse movies, book tickets, manage bookings, and enables administrators to manage movies, theaters, and reports through secure Role-Based Access Control (RBAC).
