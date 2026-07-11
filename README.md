@@ -1,7 +1,7 @@
 # 🎬 Movie Ticket Booking System API
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=E50914&center=true&vCenter=true&width=900&lines=🎬+Movie+Ticket+Booking+System;Book+Movies+Online;Node.js+%7C+Express.js+%7C+MongoDB;JWT+Authentication+%7C+RBAC" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:FF6B6B&height=220&section=header&text=Movie%20Ticket%20Booking%20API&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 > A complete **Movie Ticket Booking System Backend API** built with **Node.js, Express.js, MongoDB, Mongoose, JWT, and Nodemailer** that allows users to browse movies, book tickets, manage bookings, and enables administrators to manage movies, theaters, and reports through secure Role-Based Access Control (RBAC).
