@@ -492,3 +492,6 @@ Import the collection into **Postman** to test every API endpoint.
 Backend Developer
 
 Built with ❤️ using **Node.js, Express.js & MongoDB**
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:FF6B6B&height=120&section=footer"/>
+</p>
