@@ -1,5 +1,3 @@
-# 🎬 Movie Ticket Booking System API
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:FF6B6B&height=220&section=header&text=Movie%20Ticket%20Booking%20API&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
