@@ -1,0 +1,126 @@
+{"level":"debug","message":"User registration request received for email: raktimb414@gmail.com","service":"user-service","timestamp":"2026-06-29T15:41:39.392Z"}
+{"level":"info","message":"User registered successfully: raktimb414@gmail.com","service":"user-service","timestamp":"2026-06-29T15:41:39.684Z"}
+{"level":"info","message":"Verification email sent to: raktimb414@gmail.com","service":"user-service","timestamp":"2026-06-29T15:41:44.082Z"}
+{"level":"debug","message":"Movie added request received for name: Avengers: Endgame","service":"user-service","timestamp":"2026-06-30T07:24:34.341Z"}
+{"level":"info","message":"Movie Added successfully: Avengers: Endgame","service":"user-service","timestamp":"2026-06-30T07:24:34.466Z"}
+{"level":"debug","message":"Movie added request received for name: 3 Idiots","service":"user-service","timestamp":"2026-06-30T07:24:53.870Z"}
+{"level":"info","message":"Movie Added successfully: 3 Idiots","service":"user-service","timestamp":"2026-06-30T07:24:53.949Z"}
+{"level":"debug","message":"Movie added request received for name: Interstellar","service":"user-service","timestamp":"2026-06-30T07:25:05.255Z"}
+{"level":"info","message":"Movie Added successfully: Interstellar","service":"user-service","timestamp":"2026-06-30T07:25:05.332Z"}
+{"level":"debug","message":"Movie added request received for name: The Conjuring","service":"user-service","timestamp":"2026-06-30T07:25:13.044Z"}
+{"level":"info","message":"Movie Added successfully: The Conjuring","service":"user-service","timestamp":"2026-06-30T07:25:13.127Z"}
+{"level":"debug","message":"Movie added request received for name: Your Name","service":"user-service","timestamp":"2026-06-30T07:25:19.661Z"}
+{"level":"info","message":"Movie Added successfully: Your Name","service":"user-service","timestamp":"2026-06-30T07:25:19.748Z"}
+{"level":"debug","message":"Movie added request received for name: Pushpa: The Rise","service":"user-service","timestamp":"2026-06-30T07:25:29.701Z"}
+{"level":"info","message":"Movie Added successfully: Pushpa: The Rise","service":"user-service","timestamp":"2026-06-30T07:25:29.784Z"}
+{"level":"debug","message":"Movie added request received for name: Titanic","service":"user-service","timestamp":"2026-06-30T07:25:38.751Z"}
+{"level":"info","message":"Movie Added successfully: Titanic","service":"user-service","timestamp":"2026-06-30T07:25:38.827Z"}
+{"level":"debug","message":"Theater added request received for name: INOX South City","service":"user-service","timestamp":"2026-06-30T08:52:14.237Z"}
+{"level":"info","message":"Theater Added successfully: INOX South City","service":"user-service","timestamp":"2026-06-30T08:52:14.371Z"}
+{"level":"debug","message":"Theater added request received for name: PVR Phoenix Mall","service":"user-service","timestamp":"2026-06-30T08:52:23.113Z"}
+{"level":"info","message":"Theater Added successfully: PVR Phoenix Mall","service":"user-service","timestamp":"2026-06-30T08:52:23.197Z"}
+{"level":"debug","message":"Theater added request received for name: Cinepolis Acropolis","service":"user-service","timestamp":"2026-06-30T08:52:29.370Z"}
+{"level":"info","message":"Theater Added successfully: Cinepolis Acropolis","service":"user-service","timestamp":"2026-06-30T08:52:29.452Z"}
+{"level":"debug","message":"Theater added request received for name: Miraj Cinemas","service":"user-service","timestamp":"2026-06-30T08:52:36.142Z"}
+{"level":"info","message":"Theater Added successfully: Miraj Cinemas","service":"user-service","timestamp":"2026-06-30T08:52:36.223Z"}
+{"level":"debug","message":"Theater added request received for name: Carnival Cinemas","service":"user-service","timestamp":"2026-06-30T08:52:42.639Z"}
+{"level":"info","message":"Theater Added successfully: Carnival Cinemas","service":"user-service","timestamp":"2026-06-30T08:52:42.720Z"}
+{"level":"debug","message":"Theater added request received for name: INOX Elante Mall","service":"user-service","timestamp":"2026-06-30T08:52:48.516Z"}
+{"level":"info","message":"Theater Added successfully: INOX Elante Mall","service":"user-service","timestamp":"2026-06-30T08:52:48.619Z"}
+{"level":"debug","message":"Theater added request received for name: PVR Lulu Mall","service":"user-service","timestamp":"2026-06-30T08:52:54.781Z"}
+{"level":"info","message":"Theater Added successfully: PVR Lulu Mall","service":"user-service","timestamp":"2026-06-30T08:52:54.865Z"}
+{"level":"debug","message":"Theater added request received for name: INOX South City","service":"user-service","timestamp":"2026-06-30T09:43:40.582Z"}
+{"level":"info","message":"Theater Added successfully: INOX South City","service":"user-service","timestamp":"2026-06-30T09:43:40.727Z"}
+{"level":"debug","message":"Theater added request received for name: PVR Mani Square","service":"user-service","timestamp":"2026-06-30T09:43:46.973Z"}
+{"level":"info","message":"Theater Added successfully: PVR Mani Square","service":"user-service","timestamp":"2026-06-30T09:43:47.059Z"}
+{"level":"debug","message":"Theater added request received for name: Cinepolis Acropolis Mall","service":"user-service","timestamp":"2026-06-30T09:43:59.158Z"}
+{"level":"info","message":"Theater Added successfully: Cinepolis Acropolis Mall","service":"user-service","timestamp":"2026-06-30T09:43:59.258Z"}
+{"level":"debug","message":"Theater added request received for name: PVR Phoenix Marketcity","service":"user-service","timestamp":"2026-06-30T09:44:05.556Z"}
+{"level":"info","message":"Theater Added successfully: PVR Phoenix Marketcity","service":"user-service","timestamp":"2026-06-30T09:44:05.637Z"}
+{"level":"debug","message":"Theater added request received for name: INOX Forum Mall","service":"user-service","timestamp":"2026-06-30T09:44:12.243Z"}
+{"level":"info","message":"Theater Added successfully: INOX Forum Mall","service":"user-service","timestamp":"2026-06-30T09:44:12.338Z"}
+{"level":"debug","message":"Theater added request received for name: INOX South City","service":"user-service","timestamp":"2026-06-30T14:39:02.407Z"}
+{"level":"info","message":"Theater Added successfully: INOX South City","service":"user-service","timestamp":"2026-06-30T14:39:02.505Z"}
+{"level":"debug","message":"Theater added request received for name: PVR Mani Square","service":"user-service","timestamp":"2026-06-30T14:39:12.473Z"}
+{"level":"info","message":"Theater Added successfully: PVR Mani Square","service":"user-service","timestamp":"2026-06-30T14:39:12.552Z"}
+{"level":"debug","message":"Theater added request received for name: Cinepolis Acropolis Mall","service":"user-service","timestamp":"2026-06-30T14:39:19.870Z"}
+{"level":"info","message":"Theater Added successfully: Cinepolis Acropolis Mall","service":"user-service","timestamp":"2026-06-30T14:39:19.950Z"}
+{"level":"debug","message":"Theater added request received for name: PVR Phoenix Marketcity","service":"user-service","timestamp":"2026-06-30T14:39:25.554Z"}
+{"level":"info","message":"Theater Added successfully: PVR Phoenix Marketcity","service":"user-service","timestamp":"2026-06-30T14:39:25.637Z"}
+{"level":"debug","message":"Assign movie request received. Theater: 6a43d506c22d645780d803c3, Movie: 6a436f329e37ab045b0e824f","service":"user-service","timestamp":"2026-06-30T16:00:47.097Z"}
+{"level":"error","message":"Error assigning movie: ReferenceError: movieModel is not defined\n    at assignMovieToTheater (C:\\Users\\rakti\\OneDrive\\Documents\\Node Js\\Projects\\TicketBooking\\app\\controller\\theater.controller.js:110:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)","service":"user-service","timestamp":"2026-06-30T16:00:47.153Z"}
+{"level":"debug","message":"Assign movie request received. Theater: 6a43d506c22d645780d803c3, Movie: 6a436f329e37ab045b0e824f","service":"user-service","timestamp":"2026-06-30T16:01:12.166Z"}
+{"level":"info","message":"Movie assigned successfully. Theater: INOX South City Movie: Avengers: Endgame Screen: 1","service":"user-service","timestamp":"2026-06-30T16:01:12.565Z"}
+{"level":"debug","message":"Assign movie request received. Theater: 6a43d506c22d645780d803c3, Movie: 6a436f519e37ab045b0e8251","service":"user-service","timestamp":"2026-06-30T16:01:21.120Z"}
+{"level":"info","message":"Movie assigned successfully. Theater: INOX South City Movie: Interstellar Screen: 2","service":"user-service","timestamp":"2026-06-30T16:01:21.309Z"}
+{"level":"debug","message":"Assign movie request received. Theater: 6a43d510c22d645780d803c4, Movie: 6a436f459e37ab045b0e8250","service":"user-service","timestamp":"2026-06-30T16:01:28.142Z"}
+{"level":"info","message":"Movie assigned successfully. Theater: PVR Mani Square Movie: 3 Idiots Screen: 1","service":"user-service","timestamp":"2026-06-30T16:01:28.334Z"}
+{"level":"debug","message":"Assign movie request received. Theater: 6a43d51dc22d645780d803c6, Movie: 6a436f699e37ab045b0e8254","service":"user-service","timestamp":"2026-06-30T16:01:34.601Z"}
+{"level":"info","message":"Movie assigned successfully. Theater: PVR Phoenix Marketcity Movie: Pushpa: The Rise Screen: 3","service":"user-service","timestamp":"2026-06-30T16:01:34.792Z"}
+{"level":"debug","message":"Assign movie request received. Theater: 6a43d517c22d645780d803c5, Movie: 6a436f729e37ab045b0e8255","service":"user-service","timestamp":"2026-06-30T16:01:42.409Z"}
+{"level":"info","message":"Movie assigned successfully. Theater: Cinepolis Acropolis Mall Movie: Titanic Screen: 2","service":"user-service","timestamp":"2026-06-30T16:01:42.628Z"}
+{"level":"debug","message":"Assign movie request received. Theater: 6a43d517c22d645780d803c5, Movie: 6a436f729e37ab045b0e8255","service":"user-service","timestamp":"2026-06-30T16:21:13.512Z"}
+{"level":"warn","message":"Movie already assigned to this screen. Theater: Cinepolis Acropolis Mall Screen: 2","service":"user-service","timestamp":"2026-06-30T16:21:13.647Z"}
+{"level":"debug","message":"Assign movie request received. Theater: 6a43d510c22d645780d803c4, Movie: 6a436f329e37ab045b0e824f","service":"user-service","timestamp":"2026-07-01T15:40:09.357Z"}
+{"level":"info","message":"Movie assigned successfully. Theater: PVR Mani Square Movie: Avengers: Endgame Screen: 2","service":"user-service","timestamp":"2026-07-01T15:40:09.606Z"}
+{"level":"debug","message":"Assign movie request received. Theater: 6a43d517c22d645780d803c5, Movie: 6a436f519e37ab045b0e8251","service":"user-service","timestamp":"2026-07-01T15:40:27.167Z"}
+{"level":"info","message":"Movie assigned successfully. Theater: Cinepolis Acropolis Mall Movie: Interstellar Screen: 3","service":"user-service","timestamp":"2026-07-01T15:40:27.579Z"}
+{"level":"debug","message":"Assign movie request received. Theater: 6a43d506c22d645780d803c3, Movie: 6a436f599e37ab045b0e8252","service":"user-service","timestamp":"2026-07-01T15:40:34.828Z"}
+{"level":"info","message":"Movie assigned successfully. Theater: INOX South City Movie: The Conjuring Screen: 3","service":"user-service","timestamp":"2026-07-01T15:40:35.255Z"}
+{"level":"debug","message":"Assign movie request received. Theater: 6a43d51dc22d645780d803c6, Movie: 6a436f599e37ab045b0e8252","service":"user-service","timestamp":"2026-07-01T15:40:42.550Z"}
+{"level":"info","message":"Movie assigned successfully. Theater: PVR Phoenix Marketcity Movie: The Conjuring Screen: 5","service":"user-service","timestamp":"2026-07-01T15:40:43.227Z"}
+{"level":"debug","message":"Assign movie request received. Theater: 6a43d517c22d645780d803c5, Movie: 6a436f5f9e37ab045b0e8253","service":"user-service","timestamp":"2026-07-01T15:40:50.779Z"}
+{"level":"info","message":"Movie assigned successfully. Theater: Cinepolis Acropolis Mall Movie: Your Name Screen: 4","service":"user-service","timestamp":"2026-07-01T15:40:50.942Z"}
+{"level":"debug","message":"Assign movie request received. Theater: 6a43d510c22d645780d803c4, Movie: 6a436f5f9e37ab045b0e8253","service":"user-service","timestamp":"2026-07-01T15:41:22.904Z"}
+{"level":"info","message":"Movie assigned successfully. Theater: PVR Mani Square Movie: Your Name Screen: 4","service":"user-service","timestamp":"2026-07-01T15:41:23.056Z"}
+{"level":"debug","message":"Assign movie request received. Theater: 6a43d506c22d645780d803c3, Movie: 6a436f699e37ab045b0e8254","service":"user-service","timestamp":"2026-07-01T15:41:29.463Z"}
+{"level":"info","message":"Movie assigned successfully. Theater: INOX South City Movie: Pushpa: The Rise Screen: 4","service":"user-service","timestamp":"2026-07-01T15:41:29.866Z"}
+{"level":"debug","message":"Assign movie request received. Theater: 6a43d51dc22d645780d803c6, Movie: 6a436f729e37ab045b0e8255","service":"user-service","timestamp":"2026-07-01T15:41:37.993Z"}
+{"level":"info","message":"Movie assigned successfully. Theater: PVR Phoenix Marketcity Movie: Titanic Screen: 6","service":"user-service","timestamp":"2026-07-01T15:41:38.143Z"}
+{"level":"debug","message":"Assign movie request received. Theater: 6a43d517c22d645780d803c5, Movie: 6a436f459e37ab045b0e8250","service":"user-service","timestamp":"2026-07-01T15:41:45.341Z"}
+{"level":"info","message":"Movie assigned successfully. Theater: Cinepolis Acropolis Mall Movie: 3 Idiots Screen: 5","service":"user-service","timestamp":"2026-07-01T15:41:45.492Z"}
+{"level":"debug","message":"Assign movie request received. Theater: 6a43d51dc22d645780d803c6, Movie: 6a436f519e37ab045b0e8251","service":"user-service","timestamp":"2026-07-01T15:43:03.805Z"}
+{"level":"info","message":"Movie assigned successfully. Theater: PVR Phoenix Marketcity Movie: Interstellar Screen: 7","service":"user-service","timestamp":"2026-07-01T15:43:03.978Z"}
+{"level":"debug","message":"Booking request received for movieId: 6a436f329e37ab045b0e824f","service":"user-service","timestamp":"2026-07-01T18:22:19.556Z"}
+{"level":"info","message":"Booking successful for movie Avengers: Endgame by user 6a3e1f02bc48e2421006efa7","service":"user-service","timestamp":"2026-07-01T18:22:20.142Z"}
+{"level":"debug","message":"Booking request received for movieId: 6a436f329e37ab045b0e824f","service":"user-service","timestamp":"2026-07-01T18:24:08.151Z"}
+{"level":"info","message":"Booking successful for movie Avengers: Endgame by user 6a3e1f02bc48e2421006efa7","service":"user-service","timestamp":"2026-07-01T18:24:08.553Z"}
+{"level":"debug","message":"Booking request received for movieId: 6a436f519e37ab045b0e8251","service":"user-service","timestamp":"2026-07-01T18:24:19.330Z"}
+{"level":"info","message":"Booking successful for movie Interstellar by user 6a3e1f02bc48e2421006efa7","service":"user-service","timestamp":"2026-07-01T18:24:20.289Z"}
+{"level":"debug","message":"Booking request received for movieId: 6a436f459e37ab045b0e8250","service":"user-service","timestamp":"2026-07-01T18:25:43.571Z"}
+{"level":"info","message":"Booking successful for movie 3 Idiots by user 6a3e1f02bc48e2421006efa7","service":"user-service","timestamp":"2026-07-01T18:25:43.810Z"}
+{"level":"debug","message":"Booking request received for movieId: 6a436f699e37ab045b0e8254","service":"user-service","timestamp":"2026-07-01T18:25:51.759Z"}
+{"level":"info","message":"Booking successful for movie Pushpa: The Rise by user 6a3e1f02bc48e2421006efa7","service":"user-service","timestamp":"2026-07-01T18:25:52.009Z"}
+{"level":"debug","message":"Booking request received for movieId: 6a436f729e37ab045b0e8255","service":"user-service","timestamp":"2026-07-01T18:25:59.127Z"}
+{"level":"warn","message":"Invalid show timing","service":"user-service","timestamp":"2026-07-01T18:25:59.585Z"}
+{"level":"debug","message":"Booking request received for movieId: 6a436f599e37ab045b0e8252","service":"user-service","timestamp":"2026-07-01T18:26:12.486Z"}
+{"level":"info","message":"Booking successful for movie The Conjuring by user 6a3e1f02bc48e2421006efa7","service":"user-service","timestamp":"2026-07-01T18:26:12.743Z"}
+{"level":"debug","message":"Booking request received for movieId: 6a436f5f9e37ab045b0e8253","service":"user-service","timestamp":"2026-07-01T18:26:20.251Z"}
+{"level":"warn","message":"Invalid show timing","service":"user-service","timestamp":"2026-07-01T18:26:20.568Z"}
+{"level":"debug","message":"Cancel booking request received: undefined","service":"user-service","timestamp":"2026-07-01T18:37:06.331Z"}
+{"level":"warn","message":"Booking not found: undefined","service":"user-service","timestamp":"2026-07-01T18:37:06.399Z"}
+{"level":"debug","message":"Cancel booking request received: undefined","service":"user-service","timestamp":"2026-07-01T18:37:22.403Z"}
+{"level":"warn","message":"Booking not found: undefined","service":"user-service","timestamp":"2026-07-01T18:37:22.449Z"}
+{"level":"debug","message":"Cancel booking request received: undefined","service":"user-service","timestamp":"2026-07-01T18:38:20.381Z"}
+{"level":"warn","message":"Booking not found: undefined","service":"user-service","timestamp":"2026-07-01T18:38:20.466Z"}
+{"level":"debug","message":"Cancel booking request received: undefined","service":"user-service","timestamp":"2026-07-01T18:38:41.388Z"}
+{"level":"warn","message":"Booking not found: undefined","service":"user-service","timestamp":"2026-07-01T18:38:41.426Z"}
+{"level":"debug","message":"Cancel booking request received: 6a455adc09ca8b9c8759457b","service":"user-service","timestamp":"2026-07-01T18:40:34.398Z"}
+{"level":"info","message":"Booking cancelled successfully: 6a455adc09ca8b9c8759457b","service":"user-service","timestamp":"2026-07-01T18:40:34.963Z"}
+{"level":"error","message":"Error while fetching booking history: ReferenceError: mongoose is not defined\n    at bookingHistory (C:\\Users\\rakti\\OneDrive\\Documents\\Node Js\\Projects\\TicketBooking\\app\\controller\\booking.controller.js:190:22)\n    at Layer.handleRequest (C:\\Users\\rakti\\OneDrive\\Documents\\Node Js\\Projects\\TicketBooking\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\rakti\\OneDrive\\Documents\\Node Js\\Projects\\TicketBooking\\node_modules\\router\\lib\\route.js:157:13)\n    at AuthCheck (C:\\Users\\rakti\\OneDrive\\Documents\\Node Js\\Projects\\TicketBooking\\app\\middleware\\auth.js:27:10)\n    at Layer.handleRequest (C:\\Users\\rakti\\OneDrive\\Documents\\Node Js\\Projects\\TicketBooking\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\rakti\\OneDrive\\Documents\\Node Js\\Projects\\TicketBooking\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\rakti\\OneDrive\\Documents\\Node Js\\Projects\\TicketBooking\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\rakti\\OneDrive\\Documents\\Node Js\\Projects\\TicketBooking\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\rakti\\OneDrive\\Documents\\Node Js\\Projects\\TicketBooking\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\rakti\\OneDrive\\Documents\\Node Js\\Projects\\TicketBooking\\node_modules\\router\\index.js:295:15","service":"user-service","timestamp":"2026-07-01T18:48:56.463Z"}
+{"level":"debug","message":"User registration request received for email: harry@yopmail.com","service":"user-service","timestamp":"2026-07-02T10:09:32.460Z"}
+{"level":"info","message":"User registered successfully: harry@yopmail.com","service":"user-service","timestamp":"2026-07-02T10:09:32.786Z"}
+{"level":"info","message":"Verification email sent to: harry@yopmail.com","service":"user-service","timestamp":"2026-07-02T10:09:37.717Z"}
+{"level":"debug","message":"Booking request received for movieId: 6a436f5f9e37ab045b0e8253","service":"user-service","timestamp":"2026-07-02T10:10:54.845Z"}
+{"level":"warn","message":"Invalid show timing","service":"user-service","timestamp":"2026-07-02T10:10:54.997Z"}
+{"level":"debug","message":"Booking request received for movieId: 6a436f329e37ab045b0e824f","service":"user-service","timestamp":"2026-07-02T10:11:38.310Z"}
+{"level":"error","message":"Error while booking movie: ReferenceError: sendBookingSummary is not defined\n    at booking (C:\\Users\\rakti\\OneDrive\\Documents\\Node Js\\Projects\\TicketBooking\\app\\controller\\booking.controller.js:131:7)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)","service":"user-service","timestamp":"2026-07-02T10:11:38.689Z"}
+{"level":"debug","message":"Booking request received for movieId: 6a436f329e37ab045b0e824f","service":"user-service","timestamp":"2026-07-02T10:11:56.055Z"}
+{"level":"info","message":"Booking successful for movie Avengers: Endgame by user 6a4638dc01ac1b55c80eb7f3","service":"user-service","timestamp":"2026-07-02T10:12:01.063Z"}
+{"level":"info","message":"Server connected 4031","service":"user-service","timestamp":"2026-07-02T10:21:25.016Z"}
+{"level":"info","message":"Database Connected","service":"user-service","timestamp":"2026-07-02T10:21:25.597Z"}
+{"level":"info","message":"Server connected 4031","service":"user-service","timestamp":"2026-07-02T10:21:29.973Z"}
+{"level":"info","message":"Server connected 4031","service":"user-service","timestamp":"2026-07-02T10:21:31.552Z"}
+{"level":"info","message":"Database Connected","service":"user-service","timestamp":"2026-07-02T10:21:32.012Z"}
+{"level":"info","message":"Server connected 4031","service":"user-service","timestamp":"2026-07-02T10:23:40.687Z"}
+{"level":"info","message":"Database Connected","service":"user-service","timestamp":"2026-07-02T10:23:41.178Z"}
